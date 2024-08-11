@@ -213,7 +213,7 @@ async def shellrunner(_, message: Message):
     await message.stop_propagation()
 
 
-__MODULE__ = "Deᴠ"
+__MODULE__ = "𝐑 𝛔 ϻ 𝛂‌ 𝛂‌ 𝛈 »"
 __HELP__ = """
 🔰<b><u>Aᴅᴅ Aɴᴅ Rᴇᴍᴏᴠᴇ Sᴜᴅᴏ Usᴇʀ's:</u></b>
 
